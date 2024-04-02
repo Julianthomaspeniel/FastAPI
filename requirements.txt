@@ -1,8 +1,8 @@
 fastapi
 uvicorn
 sqlalchemy
-passlib.contex
-sqlalchemy.orm
+passlib
+sqlalchemy
 jose
 pydantic
 pyjwt
