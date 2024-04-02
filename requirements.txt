@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib.contex
+sqlalchemy.orm
+jose
+pydantic
+pyjwt
+python-multipart
