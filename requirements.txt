@@ -4,6 +4,7 @@ sqlalchemy
 passlib
 sqlalchemy
 jose
+requests
 pydantic
 pyjwt
 python-multipart
