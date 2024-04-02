@@ -2,8 +2,5 @@ fastapi
 uvicorn
 sqlalchemy
 passlib
-sqlalchemy
-requests
 pydantic
 pyjwt
-python-multipart
