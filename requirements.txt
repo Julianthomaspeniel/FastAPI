@@ -3,7 +3,7 @@ uvicorn
 sqlalchemy
 passlib
 requests
-jose
+python-jose
 pydantic
 pyjwt
 python-multipart
