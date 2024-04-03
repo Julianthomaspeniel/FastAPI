@@ -2,7 +2,7 @@ fastapi
 uvicorn
 sqlalchemy
 passlib
-sqlalchemy
+requests
 jose
 pydantic
 pyjwt
